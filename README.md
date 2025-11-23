@@ -1,4 +1,4 @@
-# 📰 Fake News Detection App
+# Fake News Detection App
 
 A **Streamlit web application** that detects whether a news article is **Real** or **Fake** using a **Machine Learning model** (Logistic Regression + TF-IDF).  
 Built with **Python, Streamlit, Pandas, and Scikit-learn**.
